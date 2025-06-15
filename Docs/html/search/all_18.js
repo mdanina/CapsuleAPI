@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['raw_20and_20raw_20filtered_20signal_0',['7 RAW and RAW filtered signal',['../index.html#autotoc_md69',1,'']]],
+  ['raw_20data_20event_20handlers_3a_1',['Initialize raw data event handlers:',['../index.html#autotoc_md72',1,'']]],
+  ['raw_20data_20event_3a_2',['Get raw data event:',['../index.html#autotoc_md71',1,'']]],
+  ['raw_20data_20stream_3',['Get RAW data stream',['../index.html#autotoc_md73',1,'']]],
+  ['raw_20filtered_20signal_4',['7.2 RAW Filtered signal',['../index.html#autotoc_md74',1,'']]],
+  ['raw_20filtered_20signal_5',['7 RAW and RAW filtered signal',['../index.html#autotoc_md69',1,'']]],
+  ['raw_20filtered_20signal_20event_3a_6',['Get RAW filtered signal event:',['../index.html#autotoc_md76',1,'']]],
+  ['raw_20filtered_20signal_20events_20handlers_3a_7',['Initialize RAW filtered signal events handlers:',['../index.html#autotoc_md77',1,'']]],
+  ['raw_20signal_8',['7.1 RAW signal',['../index.html#autotoc_md70',1,'']]],
+  ['readings_20available_20on_20headband_20and_20headphones_20pro_20devices_9',['2.2.3 Work with accelerometer and gyroscope readings (available on Headband and Headphones PRO devices)',['../index.html#autotoc_md27',1,'']]],
+  ['readings_20from_20mems_20event_3a_10',['Get accelerometer and gyroscope readings from MEMS event:',['../index.html#autotoc_md30',1,'']]],
+  ['readme_2emd_11',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
+  ['receive_20the_20following_20responses_20_3a_12',['FailReason values (if the calibration process failed you will receive the following responses):',['../index.html#autotoc_md46',1,'']]],
+  ['regular_20device_20settings_13',['2.2.1 Regular device settings',['../index.html#autotoc_md15',1,'']]],
+  ['relaxation_14',['relaxation',['../structcl_c_physiological_states_value.html#a6d47eacd98886d562dde7f20d659d108',1,'clCPhysiologicalStatesValue']]],
+  ['relaxationscore_15',['relaxationScore',['../structcl_c_n_f_b_metrics_productivity_values.html#a51143f66f02318967db7f4a9bbe471eb',1,'clCNFBMetricsProductivityValues']]],
+  ['relaxbaseline_16',['relaxBaseline',['../structcl_c_n_f_b_metrics_productivity_baselines.html#a153edad83991f0054b9ec774c6f4f790',1,'clCNFBMetricsProductivityBaselines::relaxBaseline'],['../structcl_c_n_f_b_metrics_productivity_individual_indexes.html#ae61600d9a7eb0d39846d43e9f4ef30cb',1,'clCNFBMetricsProductivityIndividualIndexes::relaxBaseline']]],
+  ['relaxpoint_17',['relaxPoint',['../structcl_c_n_f_b_metrics_productivity_individual_indexes.html#a3949873e915f6dc8cc4ad6a82164dd70',1,'clCNFBMetricsProductivityIndividualIndexes']]],
+  ['relaxpoint_20values_3a_18',['RelaxPoint values:',['../index.html#autotoc_md55',1,'']]],
+  ['resistances_20events_20handlers_3a_19',['Initialize device&apos;s resistances events handlers:',['../index.html#autotoc_md18',1,'']]],
+  ['resistances_20events_3a_20',['Get device&apos;s resistances events:',['../index.html#autotoc_md17',1,'']]],
+  ['responses_20_3a_21',['FailReason values (if the calibration process failed you will receive the following responses):',['../index.html#autotoc_md46',1,'']]],
+  ['reversefatiguebaseline_22',['reverseFatigueBaseline',['../structcl_c_n_f_b_metrics_productivity_baselines.html#ab8d845a676108bb46416f401f3475318',1,'clCNFBMetricsProductivityBaselines']]]
+];

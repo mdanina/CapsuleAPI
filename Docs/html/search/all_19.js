@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['s_20event_3a_0',['Get license manager&apos;s event:',['../index.html#autotoc_md35',1,'']]],
+  ['s_20resistances_20events_20handlers_3a_1',['Initialize device&apos;s resistances events handlers:',['../index.html#autotoc_md18',1,'']]],
+  ['s_20resistances_20events_3a_2',['Get device&apos;s resistances events:',['../index.html#autotoc_md17',1,'']]],
+  ['selfcontrol_3',['selfControl',['../structcl_c_emotional_states.html#ab20e3b11e450c1804a0e5cd1c76db9e4',1,'clCEmotionalStates']]],
+  ['session_4',['4 Create session',['../index.html#autotoc_md38',1,'']]],
+  ['session_20events_20handlers_3a_5',['Initialize session events handlers:',['../index.html#autotoc_md41',1,'']]],
+  ['session_20events_3a_6',['Get session events:',['../index.html#autotoc_md40',1,'']]],
+  ['session_3a_7',['Create session:',['../index.html#autotoc_md75',1,'']]],
+  ['settings_8',['2.2.1 Regular device settings',['../index.html#autotoc_md15',1,'']]],
+  ['signal_9',['signal',['../index.html#autotoc_md69',1,'7 RAW and RAW filtered signal'],['../index.html#autotoc_md70',1,'7.1 RAW signal'],['../index.html#autotoc_md74',1,'7.2 RAW Filtered signal']]],
+  ['signal_20event_3a_10',['Get RAW filtered signal event:',['../index.html#autotoc_md76',1,'']]],
+  ['signal_20events_20handlers_3a_11',['Initialize RAW filtered signal events handlers:',['../index.html#autotoc_md77',1,'']]],
+  ['skincontact_12',['skinContact',['../structcl_c_cardio_data.html#a3442a858f3dd8e524816af7f3b667d45',1,'clCCardioData']]],
+  ['stage_20events_3a_13',['stage events:',['../index.html#autotoc_md45',1,'Get calibration stage events:'],['../index.html#autotoc_md47',1,'Initialize calibration stage events:']]],
+  ['start_20guide_14',['Capsule API Quick Start Guide',['../index.html',1,'']]],
+  ['states_15',['states',['../index.html#autotoc_md49',1,'6 Classifiers (nfb, emotions, productivity metrics, states)'],['../index.html#autotoc_md64',1,'6.4 Physiological states']]],
+  ['states_20events_3a_16',['states events:',['../index.html#autotoc_md66',1,'Get physiological states events:'],['../index.html#autotoc_md67',1,'Initialize physiological states events:']]],
+  ['stream_17',['Get RAW data stream',['../index.html#autotoc_md73',1,'']]],
+  ['stress_18',['stress',['../structcl_c_emotional_states.html#ad82f41da65367380b31e4879c4649edf',1,'clCEmotionalStates::stress'],['../structcl_c_physiological_states_value.html#a5541a22a9d2dc98024d94ace657a1e0c',1,'clCPhysiologicalStatesValue::stress']]],
+  ['stressindex_19',['stressIndex',['../structcl_c_cardio_data.html#a3843d987010c848ae9ece5f2c01a61dc',1,'clCCardioData']]],
+  ['stresspoint_20',['stressPoint',['../structcl_c_n_f_b_metrics_productivity_individual_indexes.html#a4d542a843d0ab1865faaee5a08774c6f',1,'clCNFBMetricsProductivityIndividualIndexes']]],
+  ['stresspoint_20values_3a_21',['StressPoint values:',['../index.html#autotoc_md56',1,'']]]
+];

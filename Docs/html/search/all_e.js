@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['get_20accelerometer_20and_20gyroscope_20readings_20from_20mems_20event_3a_0',['Get accelerometer and gyroscope readings from MEMS event:',['../index.html#autotoc_md30',1,'']]],
+  ['get_20calibration_20stage_20events_3a_1',['Get calibration stage events:',['../index.html#autotoc_md45',1,'']]],
+  ['get_20cardio_20events_3a_2',['Get cardio events:',['../index.html#autotoc_md25',1,'']]],
+  ['get_20channel_20info_3a_3',['Get channel info:',['../index.html#autotoc_md20',1,'']]],
+  ['get_20device_20events_3a_4',['Get device events:',['../index.html#autotoc_md6',1,'Get device events:'],['../index.html#autotoc_md12',1,'Get device events:']]],
+  ['get_20device_20mode_20events_3a_5',['Get device mode events:',['../index.html#autotoc_md21',1,'']]],
+  ['get_20device_20s_20resistances_20events_3a_6',['Get device&apos;s resistances events:',['../index.html#autotoc_md17',1,'']]],
+  ['get_20emotions_20events_3a_7',['Get emotions events:',['../index.html#autotoc_md62',1,'']]],
+  ['get_20license_20manager_20s_20event_3a_8',['Get license manager&apos;s event:',['../index.html#autotoc_md35',1,'']]],
+  ['get_20mems_20events_3a_9',['Get MEMS events:',['../index.html#autotoc_md29',1,'']]],
+  ['get_20nfb_20events_3a_10',['Get NFB events:',['../index.html#autotoc_md52',1,'']]],
+  ['get_20physiological_20states_20events_3a_11',['Get physiological states events:',['../index.html#autotoc_md66',1,'']]],
+  ['get_20productivity_20events_3a_12',['Get productivity events:',['../index.html#autotoc_md58',1,'']]],
+  ['get_20raw_20data_20event_3a_13',['Get raw data event:',['../index.html#autotoc_md71',1,'']]],
+  ['get_20raw_20data_20stream_14',['Get RAW data stream',['../index.html#autotoc_md73',1,'']]],
+  ['get_20raw_20filtered_20signal_20event_3a_15',['Get RAW filtered signal event:',['../index.html#autotoc_md76',1,'']]],
+  ['get_20session_20events_3a_16',['Get session events:',['../index.html#autotoc_md40',1,'']]],
+  ['gravitybaseline_17',['gravityBaseline',['../structcl_c_n_f_b_metrics_productivity_baselines.html#a55fa9b7c147d083834b13c48776314a8',1,'clCNFBMetricsProductivityBaselines::gravityBaseline'],['../structcl_c_n_f_b_metrics_productivity_individual_indexes.html#af008d08b70f890877c9a5ac5659718bd',1,'clCNFBMetricsProductivityIndividualIndexes::gravityBaseline']]],
+  ['gravityscore_18',['gravityScore',['../structcl_c_n_f_b_metrics_productivity_values.html#a15715d7fd3f62af1b88151212744cd6a',1,'clCNFBMetricsProductivityValues']]],
+  ['guide_19',['Capsule API Quick Start Guide',['../index.html',1,'']]],
+  ['gyroscope_20readings_20available_20on_20headband_20and_20headphones_20pro_20devices_20',['2.2.3 Work with accelerometer and gyroscope readings (available on Headband and Headphones PRO devices)',['../index.html#autotoc_md27',1,'']]],
+  ['gyroscope_20readings_20from_20mems_20event_3a_21',['Get accelerometer and gyroscope readings from MEMS event:',['../index.html#autotoc_md30',1,'']]]
+];

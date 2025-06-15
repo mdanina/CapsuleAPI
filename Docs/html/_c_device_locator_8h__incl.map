@@ -1,0 +1,24 @@
+<map id="C:/builds/bci/capsule/CapsuleClient/Include/Capsule/CDeviceLocator.h" name="C:/builds/bci/capsule/CapsuleClient/Include/Capsule/CDeviceLocator.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="46,5,318,58"/>
+<area shape="rect" id="Node000002" href="$_c_client_8h.html" title=" " alt="" coords="86,179,278,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,59,185,163,179,163,179,59"/>
+<area shape="rect" id="Node000003" href="$_c_defines_private_8h.html" title=" " alt="" coords="252,324,523,349"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="145,61,91,104,63,130,38,159,20,188,10,218,11,247,26,274,38,285,57,295,108,310,170,321,237,327,236,332,170,326,107,315,55,300,36,290,21,278,6,248,4,217,15,186,34,156,59,127,87,100,142,56"/>
+<area shape="rect" id="Node000008" href="$_c_device_info_list_8h.html" title=" " alt="" coords="282,106,554,131"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="255,56,372,98,371,103,253,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="195,202,232,235,281,274,351,314,348,319,278,278,229,239,192,205"/>
+<area shape="rect" id="Node000006" href="$_c_error_8h.html" title=" " alt="" coords="35,251,217,276"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="175,206,147,241,143,238,171,202"/>
+<area shape="rect" id="Node000007" href="$_c_string_8h.html" title=" " alt="" coords="292,251,483,276"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="217,201,340,243,338,248,215,206"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="237,397,388,421"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="377,351,338,388,334,384,373,347"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="413,397,514,421"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="402,347,442,384,438,388,398,351"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="390,277,390,308,385,308,385,277"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="476,129,516,147,534,160,549,177,552,190,549,204,541,244,533,260,519,278,486,303,449,321,446,316,483,299,515,274,528,257,535,242,544,203,546,190,544,180,530,164,513,151,474,134"/>
+<area shape="rect" id="Node000009" href="$_c_device_info_8h.html" title=" " alt="" coords="302,179,534,203"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="421,131,421,163,415,163,415,131"/>
+<area shape="poly" id="edge12_Node000009_Node000003" title=" " alt="" coords="445,202,468,215,489,233,501,254,502,265,498,277,475,303,446,320,443,315,471,298,493,275,497,265,496,255,485,236,464,220,442,206"/>
+<area shape="poly" id="edge13_Node000009_Node000007" title=" " alt="" coords="416,205,401,238,396,236,411,203"/>
+</map>
